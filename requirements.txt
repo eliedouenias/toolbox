@@ -29,5 +29,5 @@ memoized-property
 termcolor
 
 # cleanup
-string
+#string
 nltk
